@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="dark_gray">#ff666666</color>
+    <color name="soft_gray">#ffCCCCCC</color>
+    <color name="red">#ffCC0000</color>
+    <color name="brown">#ff996600</color>
+    <color name="mango">#ffFF9900</color>
+    <color name="lime">#ff99CC33</color>
+    <color name="green">#ff339933</color>
+    <color name="teal">#ff009999</color>
+    <color name="blue">#ff3399CC</color>
+    <color name="purple">#ff9900FF</color>
+    <color name="magenta">#ffCC0066</color>
+    <color name="pink">#ffCC66CC</color>
+    <color name="white">#ffffffff</color>
+
+</resources>
